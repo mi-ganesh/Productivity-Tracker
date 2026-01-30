@@ -68,5 +68,17 @@ http://localhost:3000
 - Backend Weekly Report API:
 - 👉 http://localhost:5000/weekly-report
 
+---
+
+<p align="center">
+  <img src="g" width="600">
+</p>
+
+---
+
+<p align="center">
+  <img src="" width="600">
+</p>
+
 
 
