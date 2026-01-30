@@ -71,13 +71,13 @@ http://localhost:3000
 ---
 
 <p align="center">
-  <img src="https://github.com/mi-ganesh/Productivity-Tracker/blob/acc0577d92a8ba7eb3c49242c7e4889243ea3b4e/SS-Pie%20graph.png" width="600">
+  <img src="https://github.com/mi-ganesh/Productivity-Tracker/blob/acc0577d92a8ba7eb3c49242c7e4889243ea3b4e/SS-Pie%20graph.png" width="700" height="500">
 </p>
 
 ---
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/mi-ganesh/Productivity-Tracker/blob/7875759bf999809f656309a3e306ecc2723e92b1/SS-Time.png" width="600">
 </p>
 
 
